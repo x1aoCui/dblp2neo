@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2017-06-08" key="dblpnote/error" publtype="informal">
+<title>(error)</title>
+</article><article mdate="2017-06-08" key="dblpnote/ellipsis" publtype="informal">
+<title>&#8230;</title>
+</article><article mdate="2017-06-08" key="dblpnote/neverpublished" publtype="informal">
+<title>(was never published)</title>
+</article><phdthesis mdate="2002-01-03" key="phd/Turpin92">
+<author>Russell Turpin</author>
+<title>Programming Data Structures in Logic.</title>
+<year>1992</year>
+<school>University of Texas, Austin</school>
+</phdthesis>
+
+<phdthesis mdate="2002-01-03" key="phd/Olken93">
+<author>Frank Olken</author>
+<title>Random Sampling from Databases</title>
+<year>1993</year>
+<school>University of California at Berkeley</school>
+<publisher>LBL Technical Report</publisher>
+<number>LBL-32883</number>
+</phdthesis>
+
+<phdthesis mdate="2021-07-17" key="phd/sk/Frisch2009">
+<author>Guido Frisch</author>
+<title>Using open source software to develop E-business applications for medium- and small-sized enterprises.</title>
+<year>2009</year>
+<school>Bratislava, Univ.</school>
+<pages>1-151</pages>
+<isbn>978-3-8300-4753-7</isbn>
+<ee>https://d-nb.info/996716548</ee>
+</phdthesis><phdthesis mdate="2021-02-08" key="phd/it/Amelio2012">
+<author>Alessia Amelio</author>
+<title>Pattern extraction from data with application to image processing.</title>
+<year>2012</year>
+<school>University of Calabria, Italy</school>
+<ee>https://doi.org/10.13126/UNICAL.IT/DOTTORATI/1171</ee>
+</phdthesis>
+<phdthesis mdate="2021-07-17" key="phd/it/Popescu2008">
+<author>Razvan Andrei Popescu</author>
+<title>Aggregation and adaptation of web services: a semi-automated methodology for the aggregation and adaption of web services.</title>
+<year>2008</year>
+<school>University of Pisa</school>
+<pages>1-206</pages>
+<isbn>978-3-8364-6280-8</isbn>
+<ee>https://d-nb.info/991165179</ee>
+</phdthesis>
+    <article mdate="2018-08-13" key="journals/corr/BorgohainKS15" publtype="informal">
+<author>Tuhin Borgohain</author>
+<author>Uday Kumar</author>
+<author>Sugata Sanyal</author>
+<title>Survey of Security and Privacy Issues of Internet of Things.</title>
+<year>2015</year>
+<volume>abs/1501.02211</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1501.02211</ee>
+<url>db/journals/corr/corr1501.html#BorgohainKS15</url>
+</article><article mdate="2020-09-16" key="journals/corr/abs-2008-12548" publtype="informal">
+<author>Tingting Cai</author>
+<author>Yangming Zhou</author>
+<author>Hong Zheng</author>
+<title>Cost-Quality Adaptive Active Learning for Chinese Clinical Named Entity Recognition.</title>
+<year>2020</year>
+<volume>abs/2008.12548</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.12548</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-12548</url>
+</article>
+    <article mdate="2021-03-23" key="journals/corr/abs-2103-08569" publtype="informal">
+<author>Zehai Tu</author>
+<author>Ning Ma 0002</author>
+<author>Jon Barker</author>
+<title>DHASP: Differentiable Hearing Aid Speech Processing.</title>
+<year>2021</year>
+<volume>abs/2103.08569</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.08569</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-08569</url>
+</article>
+<article mdate="2019-08-09" key="journals/corr/abs-1908-01570" publtype="informal">
+<author>Yuntao Chen</author>
+<author>Chenxia Han</author>
+<author>Naiyan Wang</author>
+<author>Zhaoxiang Zhang</author>
+<title>Revisiting Feature Alignment for One-stage Object Detection.</title>
+<year>2019</year>
+<volume>abs/1908.01570</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01570</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01570</url>
+</article>
+<article mdate="2018-08-13" key="journals/corr/abs-1806-07275" publtype="informal">
+<author>Anton Salikhmetov</author>
+<title>Upward confluence in the interaction calculus.</title>
+<year>2018</year>
+<volume>abs/1806.07275</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.07275</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-07275</url>
+</article><article mdate="2018-08-13" key="journals/corr/abs-1806-05228" publtype="informal">
+<author>Thibault Groueix</author>
+<author>Matthew Fisher</author>
+<author>Vladimir G. Kim</author>
+<author>Bryan C. Russell</author>
+<author>Mathieu Aubry</author>
+<title>Shape correspondences from learnt template-based parametrization.</title>
+<year>2018</year>
+<volume>abs/1806.05228</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.05228</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-05228</url>
+</article><article mdate="2018-08-13" key="journals/corr/abs-1803-08977" publtype="informal">
+<author>Manoel Horta Ribeiro</author>
+<author>Pedro H. Calais</author>
+<author>Yuri A. Santos</author>
+<author>Virg&iacute;lio A. F. Almeida</author>
+<author>Wagner Meira Jr.</author>
+<title>Characterizing and Detecting Hateful Users on Twitter.</title>
+<year>2018</year>
+<volume>abs/1803.08977</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.08977</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-08977</url>
+</article><article mdate="2018-08-13" key="journals/corr/abs-0808-0768" publtype="informal">
+<author>Mark Burgin</author>
+<title>Foundations of Information Theory</title>
+<ee type="oa">http://arxiv.org/abs/0808.0768</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0808.0768</volume>
+<url>db/journals/corr/corr0808.html#abs-0808-0768</url>
+</article><article mdate="2018-08-13" key="journals/corr/GordonFF17" publtype="informal">
+<author>Daniel Gordon</author>
+<author>Ali Farhadi</author>
+<author>Dieter Fox</author>
+<title>Re3 : Real-Time Recurrent Regression Networks for Object Tracking.</title>
+<year>2017</year>
+<volume>abs/1705.06368</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.06368</ee>
+<url>db/journals/corr/corr1705.html#GordonFF17</url>
+</article><article mdate="2019-07-08" key="journals/corr/Taylor14" publtype="informal">
+<author>Tim Taylor 0001</author>
+<title>WebAL-1: Workshop on Artificial Life and the Web 2014 Proceedings.</title>
+<year>2014</year>
+<volume>abs/1406.2507</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1406.2507</ee>
+<url>db/journals/corr/corr1406.html#Taylor14</url>
+</article><article mdate="2021-06-01" key="journals/corr/abs-2105-09764" publtype="informal">
+<author>Tuomas Takko</author>
+<author>Kunal Bhattacharya</author>
+<author>Daniel Monsivais</author>
+<author>Kimmo Kaski</author>
+<title>Human-agent coordination in a group formation game.</title>
+<year>2021</year>
+<volume>abs/2105.09764</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.09764</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-09764</url>
+</article>
+<article mdate="2021-04-13" key="journals/corr/abs-1902-02605" publtype="informal">
+<author>Luis Cruz 0002</author>
+<author>Rui Abreu 0001</author>
+<title>EMaaS: Energy Measurements as a Service for Mobile Applications.</title>
+<year>2019</year>
+<volume>abs/1902.02605</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.02605</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-02605</url>
+</article><article mdate="2019-11-28" key="journals/corr/WangFZNL16" publtype="informal">
+<author>Yu Wang 0041</author>
+<author>Yang Feng 0001</author>
+<author>Xiyang Zhang</author>
+<author>Richard Niemi</author>
+<author>Jiebo Luo</author>
+<title>Will Sanders Supporters Jump Ship for Trump? Fine-grained Analysis of Twitter Followers.</title>
+<year>2016</year>
+<volume>abs/1605.09473</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.09473</ee>
+<url>db/journals/corr/corr1605.html#WangFZNL16</url>
+</article><article mdate="2020-01-17" key="journals/corr/abs-2001-05286" publtype="informal">
+<author>Kashyap Coimbatore Murali</author>
+<title>Exploring and Improving Robustness of Multi Task Deep Neural Networks via Domain Agnostic Defenses.</title>
+<year>2020</year>
+<volume>abs/2001.05286</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.05286</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-05286</url>
+</article>
+</dblp>
